@@ -6,9 +6,9 @@ If you landed here from my resume hoping to see code: most of what I write lives
 
 ## My favorite technologies
 
-**Front end:** TypeScript, Vue.js (Certified Vue Developer), React, Vite, Cypress  
-**Back end:** Node.js, Python, Django, REST, GraphQL, WebSocket  
-**Data & infra:** PostgreSQL, MongoDB, AWS, Docker, GitHub Actions
+**Front end:** TypeScript, Vue.js, React, Vite, Cypress  
+**Back end:** Node.js, .NET, REST, GraphQL, WebSockets  
+**Data & infra:** SQL of any flavor, AWS, Docker, GitHub Actions
 
 ---
 
