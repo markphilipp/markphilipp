@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mark
 
-<!--
-**markphilipp/markphilipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Staff Full Stack Engineer in Charlotte, NC. I've been writing software for 19 years, currently at LeafLink building a B2B SaaS marketplace in TypeScript, Vue.js, and Node.js.
 
-Here are some ideas to get you started:
+If you landed here from my resume hoping to see code: most of what I write lives in private LeafLink repos, which is why this profile looks sparse from the outside. The contribution graph is the public-facing part.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My favorite technologies
+
+**Front end:** TypeScript, Vue.js (Certified Vue Developer), React, Vite, Cypress  
+**Back end:** Node.js, Python, Django, REST, GraphQL, WebSocket  
+**Data & infra:** PostgreSQL, MongoDB, AWS, Docker, GitHub Actions
+
+---
+
+[linkedin.com/in/markphilipp](https://www.linkedin.com/in/markphilipp) · markdphilipp@gmail.com
